@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EliasV8
+- 👀 I’m interested in IT.
+- 🌱 I’m currently learning DevOps.
+- 💞️ I’m looking to collaborate on it.
+- 📫 How to reach me: https://t.me/Daemon_V8
